@@ -35,6 +35,6 @@ Withdraw
 Balance
 Passcode
 Speak to agent
-Previous transaction -> reverse
+Previous transaction
 Exit
  */
